@@ -1,0 +1,22 @@
+*
+!*/
+
+# Git related
+!.gitignore
+
+# Tooling
+!.clang-format
+!.clang-tidy
+!.clangd
+!.editorconfig
+!Makefile
+
+# Docs
+!README.md
+
+# Sources
+!include/nocheck/nocheck.h
+
+!examples/01-basic.c
+
+
