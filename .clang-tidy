@@ -1,0 +1,6 @@
+---
+Checks: 'clang-analyzer-*,performance-*,-clang-diagnostic-unused-command-line-argument'
+WarningsAsErrors: '*'
+HeaderFilterRegex: ''
+AnalyzeTemporaryDtors: false
+FormatStyle: LLVM
